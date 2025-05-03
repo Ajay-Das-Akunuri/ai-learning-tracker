@@ -90,8 +90,6 @@ ai-learning-tracker/
 
 ---
 
-
-
 ## 📬 Contact
 
 - 📧 Email: [akunuriajaydas95@gmail.com](mailto:akunuriajaydas95@gmail.com)
