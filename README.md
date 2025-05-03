@@ -7,12 +7,12 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ## 📚 Table of Contents
 
-- [Learning Roadmap](#learning-roadmap)
-- [Skill Progress](#skill-progress)
-- [Key Milestones](#key-milestones)
-- [Folder Structure](#folder-structure)
-- [Tech Stack](#tech-stack)
-- [Contact](#contact)
+- [Learning Roadmap](#-learning-roadmap)
+- [Skill Progress](#-skill-progress)
+- [Key Milestones](#-key-milestones)
+- [Folder Structure](#-folder-structure)
+- [Tech Stack](#-tech-stack)
+- [Contact](#-contact)
 
 ---
 
