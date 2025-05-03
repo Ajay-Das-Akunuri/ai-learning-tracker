@@ -7,16 +7,16 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ## 📚 Table of Contents
 
-- [Learning Roadmap](#-learning-roadmap)
-- [Skill Progress](#-skill-progress)
-- [Key Milestones](#-key-milestones)
-- [Folder Structure](#-folder-structure)
-- [Tech Stack](#-tech-stack)
-- [Contact](#-contact)
+- [📁 Learning Roadmap](#-learning-roadmap)
+- [📈 Skill Progress](#-skill-progress)
+- [🎯 Key Milestones](#-key-milestones)
+- [🗂️ Folder Structure](#-folder-structure)
+- [🛠 Tech Stack](#-tech-stack)
+- [📫 Contact](#-contact)
 
 ---
 
-## Learning Roadmap 🗺️
+## 📁 Learning Roadmap
 
 | 📘 Module | 📅 Timeline | 🔍 Status | 📁 Folder |
 |----------|-------------|-----------|------------|
@@ -32,7 +32,7 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ---
 
-## Skill Progress 📊
+## 📈 Skill Progress
 
 | Area               | Level         | Notes |
 |--------------------|---------------|-------|
@@ -46,7 +46,7 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ---
 
-## Key Milestones 🎯
+## 🎯 Key Milestones
 
 - [x] Set up public GitHub AI learning repo ✅
 - [x] Completed Python refresh with hands-on notebooks
@@ -59,7 +59,7 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ---
 
-## Folder Structure 🗂️
+## 🗂️ Folder Structure
 
 ```
 ai-learning-tracker/
