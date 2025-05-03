@@ -17,7 +17,7 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ---
 
-## 📁 Learning Roadmap
+## 🗺️ Learning Roadmap
 
 | 📘 Module | 📅 Timeline | 🔍 Status | 📁 Folder |
 |----------|-------------|-----------|------------|
@@ -33,7 +33,7 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ---
 
-## 📈 Skill Progress
+## 📊 Skill Progress
 
 | Area               | Level         | Notes |
 |--------------------|---------------|-------|
@@ -80,7 +80,7 @@ ai-learning-tracker/
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - **Languages**: Python, R, SQL, JavaScript
 - **Frameworks**: scikit-learn, XGBoost, TensorFlow, PyTorch (planned)
@@ -90,7 +90,9 @@ ai-learning-tracker/
 
 ---
 
-## 📫 Contact
+
+
+## 📬 Contact
 
 - 📧 Email: [akunuriajaydas95@gmail.com](mailto:akunuriajaydas95@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ajaydasakunuri](https://www.linkedin.com/in/ajay-das-929122135/)
