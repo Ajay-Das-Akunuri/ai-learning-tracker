@@ -78,7 +78,7 @@ ai-learning-tracker/
 
 ---
 
-## Tech Stack 🛠️
+## 🛠 Tech Stack
 
 - **Languages**: Python, R, SQL, JavaScript
 - **Frameworks**: scikit-learn, XGBoost, TensorFlow, PyTorch (planned)
@@ -88,7 +88,11 @@ ai-learning-tracker/
 
 ---
 
-## Contact 📬
+## 📫 Contact
 
 - 📧 Email: [akunuriajaydas95@gmail.com](mailto:akunuriajaydas95@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ajaydasakunuri](https://www.linkedin.com/in/ajay-das-929122135/)
+
+---
+
+
