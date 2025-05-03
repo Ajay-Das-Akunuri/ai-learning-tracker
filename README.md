@@ -61,3 +61,36 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ## 🗂️ Folder Structure
 
+```
+ai-learning-tracker/
+├── 01-python/              # Python basics, OOP, NumPy, pandas
+├── 02-data-structures/     # Arrays, trees, linked lists, graphs
+├── 03-algorithms/          # Sorting, searching, recursion, DP
+├── 04-machine-learning/    # Regression, classification, clustering
+├── 05-math/                # Stats, linear algebra, probability
+├── 06-deep-learning/       # CNNs, RNNs, Transformers
+├── 07-projects/            # AI/ML projects and case studies
+├── 08-cloud/               # AWS, GCP, deployment pipelines
+├── 09-interview-prep/      # DSA & System Design for interviews
+├── LICENSE
+└── README.md
+```
+
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages**: Python, R, SQL, JavaScript
+- **Frameworks**: scikit-learn, XGBoost, TensorFlow, PyTorch (planned)
+- **Tools**: Jupyter, Git, VSCode, GitHub Actions
+- **Cloud**: AWS (S3, Lambda, EC2), GCP (BigQuery, Notebooks)
+- **Tracking**: GitHub Projects, Notion
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [akunuriajaydas95@gmail.com](mailto:akunuriajaydas95@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ajaydasakunuri](https://www.linkedin.com/in/ajay-das-929122135/)
+
