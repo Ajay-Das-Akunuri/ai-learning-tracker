@@ -1,7 +1,29 @@
+
 # 🧠 AI Learning Tracker by Ajay Das Akunuri
 
 Welcome to my AI Engineering learning journey!  
 This repository tracks my hands-on learning across machine learning, deep learning, cloud engineering, data science, and foundational computer science.
+
+---
+
+## 📛 Project Badges
+
+![Repo Size](https://img.shields.io/github/repo-size/YOURUSERNAME/ai-learning-tracker)
+![Last Commit](https://img.shields.io/github/last-commit/YOURUSERNAME/ai-learning-tracker)
+![Issues](https://img.shields.io/github/issues/YOURUSERNAME/ai-learning-tracker)
+![Forks](https://img.shields.io/github/forks/YOURUSERNAME/ai-learning-tracker)
+![Stars](https://img.shields.io/github/stars/YOURUSERNAME/ai-learning-tracker?style=social)
+
+---
+
+## 📌 Project Status
+
+![Python](https://img.shields.io/badge/Python-Complete-brightgreen)
+![DSA](https://img.shields.io/badge/Data_Structures-Complete-brightgreen)
+![Algorithms](https://img.shields.io/badge/Algorithms-In_Progress-yellow)
+![ML](https://img.shields.io/badge/Machine_Learning-In_Progress-yellow)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Upcoming-lightgrey)
+![Cloud](https://img.shields.io/badge/Cloud_DevOps-Upcoming-lightgrey)
 
 ---
 
@@ -18,31 +40,31 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ## 📁 Learning Roadmap
 
-| 📘 Module | 📅 Timeline | 🔍 Status | 📁 Folder |
-|----------|-------------|-----------|------------|
-| Python for AI | Apr 2025 | ✅ Complete | `01-python` |
-| Data Structures | Apr 2025 | ✅ Complete | `02-data-structures` |
-| Algorithms | Apr 2025 | 🟡 In Progress | `03-algorithms` |
-| Machine Learning | May 2025 | 🟡 In Progress | `04-machine-learning` |
-| Math & Statistics | May 2025 | 🔲 Upcoming | `05-math` |
-| Deep Learning | June 2025 | 🔲 Upcoming | `06-deep-learning` |
-| Projects & Use Cases | Rolling | 🟡 Ongoing | `07-projects` |
-| Cloud & DevOps | Rolling | 🔲 Upcoming | `08-cloud` |
-| Interview Prep | Weekly | 🟢 Active | `09-interview-prep` |
+| 📘 Module           | 📅 Timeline | 🔍 Status     | 📁 Folder           |
+|--------------------|-------------|---------------|---------------------|
+| Python for AI      | Apr 2025    | ✅ Complete   | `01-python`         |
+| Data Structures    | Apr 2025    | ✅ Complete   | `02-data-structures`|
+| Algorithms         | Apr 2025    | 🟡 In Progress| `03-algorithms`     |
+| Machine Learning   | May 2025    | 🟡 In Progress| `04-machine-learning`|
+| Math & Statistics  | May 2025    | 🔲 Upcoming   | `05-math`           |
+| Deep Learning      | June 2025   | 🔲 Upcoming   | `06-deep-learning`  |
+| Projects & Use Cases| Rolling    | 🟡 Ongoing    | `07-projects`       |
+| Cloud & DevOps     | Rolling     | 🔲 Upcoming   | `08-cloud`          |
+| Interview Prep     | Weekly      | 🟢 Active     | `09-interview-prep` |
 
 ---
 
 ## 📈 Skill Progress
 
-| Area               | Level         | Notes |
-|--------------------|---------------|-------|
-| Python             | 🟢 Intermediate | Scripts, OOP, pandas, NumPy |
-| Statistics & Math  | 🟡 Learning     | Probability, regression, distributions |
-| Machine Learning   | 🟢 Applied      | XGBoost, SVM, Trees, sklearn pipelines |
-| Deep Learning      | 🔲 Upcoming     | CNNs, RNNs, Transformers |
-| Cloud (AWS/GCP)    | 🟡 Exploring    | S3, EC2, BigQuery, CDK |
-| Version Control    | 🟢 Confident    | Git branching, commits, GitHub repo mgmt |
-| DSA (Coding Prep)  | 🟢 Active       | Solving via LeetCode & HackerRank |
+| Area               | Level         | Notes                                 |
+|--------------------|---------------|---------------------------------------|
+| Python             | 🟢 Intermediate| Scripts, OOP, pandas, NumPy           |
+| Statistics & Math  | 🟡 Learning    | Probability, regression, distributions|
+| Machine Learning   | 🟢 Applied     | XGBoost, SVM, Trees, sklearn pipelines|
+| Deep Learning      | 🔲 Upcoming    | CNNs, RNNs, Transformers              |
+| Cloud (AWS/GCP)    | 🟡 Exploring   | S3, EC2, BigQuery, CDK                |
+| Version Control    | 🟢 Confident   | Git branching, commits, GitHub repo mgmt |
+| DSA (Coding Prep)  | 🟢 Active      | Solving via LeetCode & HackerRank    |
 
 ---
 
@@ -94,5 +116,3 @@ ai-learning-tracker/
 - 💼 LinkedIn: [linkedin.com/in/ajaydasakunuri](https://www.linkedin.com/in/ajay-das-929122135/)
 
 ---
-
-
