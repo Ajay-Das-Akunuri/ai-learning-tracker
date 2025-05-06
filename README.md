@@ -6,13 +6,13 @@ This repository tracks my hands-on learning across machine learning, deep learni
 
 ---
 
-## 📛 Project Badges
+## 🍥 Project Badges
 
-![Repo Size](https://img.shields.io/github/repo-size/YOURUSERNAME/ai-learning-tracker)
-![Last Commit](https://img.shields.io/github/last-commit/YOURUSERNAME/ai-learning-tracker)
-![Issues](https://img.shields.io/github/issues/YOURUSERNAME/ai-learning-tracker)
-![Forks](https://img.shields.io/github/forks/YOURUSERNAME/ai-learning-tracker)
-![Stars](https://img.shields.io/github/stars/YOURUSERNAME/ai-learning-tracker?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/Ajay-Das-Akunuri/ai-learning-tracker)
+![Last Commit](https://img.shields.io/github/last-commit/Ajay-Das-Akunuri/ai-learning-tracker)
+![Issues](https://img.shields.io/github/issues/Ajay-Das-Akunuri/ai-learning-tracker)
+![Forks](https://img.shields.io/github/forks/Ajay-Das-Akunuri/ai-learning-tracker?style=social)
+![Stars](https://img.shields.io/github/stars/Ajay-Das-Akunuri/ai-learning-tracker?style=social)
 
 ---
 
